@@ -1,0 +1,229 @@
+{
+    "status": "Ok",
+    "total_results": "199",
+    "recipes": [
+        {
+            "category" : "Paneer",
+            "Items" : [
+                {
+            
+                    "name": "Paneer Butter Masala",
+                    "image": "https://img.freepik.com/premium-photo/paneer-lababdar-is-famous-indian-dish-served-rustic-wooden-background-selective-focus_726363-991.jpg?w=1060",
+                    "video": "www.youtube.com",
+                    "steps": [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare the Paneer",
+                                    "desc": "Cut paneer (Indian cottage cheese) into cubes and lightly fry them until golden brown. Drain and set aside."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare the Base",
+                                    "desc": "In a pan, heat butter and add cumin seeds. Once they splutter, add chopped onions, ginger, and garlic. Sauté until golden brown."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Create the Sauce",
+                                    "desc": "Add tomato puree and cook until the oil separates. Then, add red chili powder, turmeric, garam masala, and a pinch of sugar. Mix well and cook the spices."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Blend and Cook",
+                                    "desc": "Let the mixture cool slightly, then blend it into a smooth paste. Return the paste to the pan, add cream and a bit of water to adjust consistency. Cook for a few minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Paneer",
+                                    "desc": "Gently add the fried paneer cubes into the sauce. Simmer for a few minutes to let the flavors meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Finish with Butter and Cream",
+                                    "desc": "Add a small piece of butter and more cream to enhance the richness. Stir well and cook for a final few minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish and Serve",
+                                    "desc": "Garnish with chopped cilantro and serve the Paneer Butter Masala hot with naan or rice."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name" : "Kadhai Paneer",
+                    "image" : "https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?w=740&t=st=1691574037~exp=1691574637~hmac=f9dc6f3daf2aa70d88f645fffdf5da9e00c019b35251a2fc2aa7b025d3080b13",
+                    "video" : "www.youtube.com",
+                    
+                        "steps": [
+                            {
+                                "step_name": "Step 1",
+                                "sub_steps": [
+                                    {
+                                        "name": "Ingredient Preparation",
+                                        "desc": "Prepare the Ingredients by cutting paneer into cubes, chopping onions, tomatoes, and bell peppers, and crushing ginger and garlic."
+                                    }
+                                ]
+                            },
+                            {
+                                "step_name": "Step 2",
+                                "sub_steps": [
+                                    {
+                                        "name": "Spice Infusion",
+                                        "desc": "Infuse the rich aroma of the dish by dry roasting coriander seeds, cumin seeds, and dried red chilies in a kadhai."
+                                    }
+                                ]
+                            },
+                            {
+                                "step_name": "Step 3",
+                                "sub_steps": [
+                                    {
+                                        "name": "Spice Transformation",
+                                        "desc": "Transform the roasted spices into a flavorful coarse powder."
+                                    }
+                                ]
+                            },
+                            {
+                                "step_name": "Step 4",
+                                "sub_steps": [
+                                    {
+                                        "name": "BAromatic Base",
+                                        "desc": "Create an aromatic base by heating oil in the kadhai, sautéing crushed ginger-garlic until fragrant, then adding chopped onions and cooking until they turn golden."
+                                    }
+                                ]
+                            },
+                            {
+                                "step_name": "Step 5",
+                                "sub_steps": [
+                                    {
+                                        "name": "Tomato Fusion",
+                                        "desc": "Fuse the tangy sweetness of tomatoes with the base by introducing chopped tomatoes, salt, turmeric, and the ground spice powder to the kadhai, and cook until the tomatoes become soft."
+                                    }
+                                ]
+                            },
+                            {
+                                "step_name": "Step 6",
+                                "sub_steps": [
+                                    {
+                                        "name": "Paneer and Peppers",
+                                        "desc": "Incorporate the star ingredients by adding paneer cubes and chopped bell peppers to the mixture, tossing and cooking until they are well-cooked."
+                                    }
+                                ]
+                            },
+                            {
+                                "step_name": "Step 7",
+                                "sub_steps": [
+                                    {
+                                        "name": "Finishing Touch",
+                                        "desc": "Give the finishing touch to the Kadhai Paneer by garnishing it with chopped coriander leaves, and serve it hot alongside naan or roti."
+                                    }
+                                ]
+                            }
+                        ]
+                    
+                },
+                {
+                    "name" : "Shahi Paneer",
+                    "image" : "https://img.freepik.com/premium-photo/paneer-butter-masala-cheese-cottage-curry-is-rich-creamy-curry-made-with-paneer-spices-onions-tomatoes-cashews-butter_466689-79197.jpg?w=1380",
+                    "video" : "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare the Paneer",
+                                    "desc": "Cut paneer (Indian cottage cheese) into cubes and lightly fry them until golden brown. Drain and set aside."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare the Base",
+                                    "desc": "In a pan, heat butter and add cumin seeds. Once they splutter, add chopped onions, ginger, and garlic. Sauté until golden brown."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Create the Sauce",
+                                    "desc": "Add tomato puree and cook until the oil separates. Then, add red chili powder, turmeric, garam masala, and a pinch of sugar. Mix well and cook the spices."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Blend and Cook",
+                                    "desc": "Let the mixture cool slightly, then blend it into a smooth paste. Return the paste to the pan, add cream and a bit of water to adjust consistency. Cook for a few minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Paneer",
+                                    "desc": "Gently add the fried paneer cubes into the sauce. Simmer for a few minutes to let the flavors meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Finish with Butter and Cream",
+                                    "desc": "Add a small piece of butter and more cream to enhance the richness. Stir well and cook for a final few minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish and Serve",
+                                    "desc": "Garnish with chopped cilantro and serve the Paneer Butter Masala hot with naan or rice."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name" : "Palak Paneer",
+                    "image" : ""
+                }
+
+            ]
+        }
+    ]
+}
