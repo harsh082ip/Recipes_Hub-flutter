@@ -1779,6 +1779,433 @@
                     ]
                 }
             ]
-        }   
+        },
+        {
+            "category": "Deserts",
+            "Items": [
+                {
+                    "name": "Cupcakes",
+                    "image":"https://www.bhg.com/thmb/omRnLfsvB9GAGewBsmtLILhQUqk=/1721x0/filters:no_upscale():strip_icc()/neapolitan-cupcakes-R158267-5ae73e7d32ed431e9c3cf1f029cccd35.jpg ",
+                    "video":"www.youtube.com",
+                    "steps":[
+                        {
+                            "step_name":"Step 1",
+                            "sub_steps":[
+                                {
+                                    "name": "Preheat and Prep:",
+                                    "desc": "Preheat oven to 350°F. Line tray with liners."
+                                    
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 2",
+                            "sub_steps":[
+                                {
+                                    "name": "Mix Dry Ingredients:",
+                                    "desc": " Whisk flour, baking powder, salt."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 3",
+                            "sub_steps":[
+                                {
+                                    "name": " Cream Butter and Sugar: .",
+                                    "desc": " Beat butter, sugar till fluffy"
+                                }
+                            ]
+                        },
+
+                        {
+                            "step_name":"Step 4",
+                            "sub_steps":[
+                                {
+                                    "name": "Add Eggs and Vanilla: ",
+                                    "desc": "Mix in eggs, one at a time. Add vanilla. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 5",
+                            "sub_steps":[
+                                {
+                                    "name": " Combine Wet and Dry:",
+                                    "desc": "  Alternate flour mix and milk, mix."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 6",
+                            "sub_steps":[
+                                {
+                                    "name": "Bake:",
+                                    "desc": " Spoon batter, bake 18-20 min, toothpick clean."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 7",
+                            "sub_steps":[
+                                {
+                                    "name": "Cool and Decorate:",
+                                    "desc": " Cool, frost, decorate as desired. "
+                                }
+                            ]
+                        }   
+                    ]
+                },
+                {
+                    "name": "Cheesecake",
+                    "image":" https://www.mybakingaddiction.com/wp-content/uploads/2022/08/plated-blueberry-cheesecake-hero-735x735.jpg  ",
+                    "video":"www.youtube.com",
+                    "steps":[
+                        {
+                            "step_name":"Step 1",
+                            "sub_steps":[
+                                {
+                                    "name": " Preheat oven to 325°F.",
+                                    "desc": " Mix crumbs and melted butter, press into pan."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 2",
+                            "sub_steps":[
+                                {
+                                    "name": " Beat Cream Cheese:",
+                                    "desc": "  Beat softened cream cheese and sugar until smooth."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 3",
+                            "sub_steps":[
+                                {
+                                    "name": " Add Eggs and Vanilla:",
+                                    "desc": " Mix in eggs, one at a time. Add vanilla."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 4",
+                            "sub_steps":[
+                                {
+                                    "name": " Bake Pour into crust, bake 45 min. Let cool in oven."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 5",
+                            "sub_steps":[
+                                {
+                                    "name": " Spread Sour Cream: ",
+                                    "desc": "Spread sour cream on top."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 6",
+                            "sub_steps":[
+                                {
+                                    "name": "Chill:",
+                                    "desc": " Refrigerate for a few hours or overnight."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 7",
+                            "sub_steps":[
+                                {
+                                    "name": "Slice and Enjoy:",
+                                    "desc": " Slice, serve, and savor your homemade cheesecake"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Donuts",
+                    "image": " https://therecipecritic.com/wp-content/uploads/2020/10/Homemade-Donuts-1.jpg  ",
+                    "video":"www.youtube.com",
+                    "steps":[
+                        {
+                            "step_name":"Step 1",
+                            "sub_steps":[
+                                {
+                                    "name":"Mix Dry Ingredients:",
+                                    "desc": " In a bowl, combine flour, sugar, baking powder, and salt."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 2",
+                            "sub_steps":[
+                                {
+                                    "name":"Blend Wet Ingredients: ",
+                                    "desc": "In another bowl, whisk milk, melted butter, vanilla, and egg."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 3",
+                            "sub_steps":[
+                                {
+                                    "name":"Combine Mixtures: ",
+                                    "desc": "Add wet mixture to dry mixture. Stir until just combined."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 4",
+                            "sub_steps":[
+                                {
+                                    "name":"Roll and cut ",
+                                    "desc": "Roll dough on floured surface. Cut donuts using a donut cutter or a round cutter."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 5",
+                            "sub_steps":[
+                                {
+                                    "name":"Heat Oil:",
+                                    "desc": "Heat oil to 350°F (175°C) in a pot."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 6",
+                            "sub_steps":[
+                                {
+                                    "name":"Fry Donuts:",
+                                    "desc": " Carefully fry donuts until golden, about 1-2 minutes per side."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 7",
+                            "sub_steps":[
+                                {
+                                    "name":"Drain and Glaze: ",
+                                    "desc": "Drain on paper towels. Glaze with your choice of icing or toppings"
+                                }
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "name":"Brownies",
+                    "image": "https://spicesnflavors.com/wp-content/uploads/2022/02/flat-lay-eggless-brownies.jpg",
+                    "video":"www.youtube.com",
+                    "steps":[
+                        {
+                            "step_name":"Step 1",
+                            "sub_steps" :[
+                                {
+                                    "name":"Prep and Preheat:",
+                                    "desc":" Preheat oven to 350°F (175°C). Grease or line a baking pan."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 2",
+                            "sub_steps" :[
+                                {
+                                    "name":"Melt Butter: ",
+                                    "desc":"Melt butter in a microwave-safe bowl."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 3",
+                            "sub_steps" :[
+                                {
+                                    "name":"Combine Wet Ingredients:",
+                                    "desc":"Stir sugar into melted butter. Add eggs, vanilla; mix well."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 4",
+                            "sub_steps" :[
+                                {
+                                    "name":"Mix Dry Ingredients: ",
+                                    "desc":"In a separate bowl, whisk cocoa, flour, salt, and baking powder."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 5",
+                            "sub_steps" :[
+                                {
+                                    "name":"Combine Mixtures:",
+                                    "desc":" Gradually add dry mixture to wet mixture. Mix until just combined."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 6",
+                            "sub_steps" :[
+                                {
+                                    "name":"Bake:",
+                                    "desc":"Pour batter into the pan. Bake for 20-25 minutes, until a toothpick comes out slightly moist."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 7",
+                            "sub_steps" :[
+                                {
+                                    "name":"Cool and Enjoy:",
+                                    "desc":"Allow brownies to cool before cutting. Enjoy the gooey goodness!"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Backlava",
+                    "image":"https://natashaskitchen.com/wp-content/uploads/2014/12/Baklava-Recipe-16-500x500.jpg ",
+                    "video":"www.youtube.com",
+                    "steps":[
+                        {
+                            "step_name":"Step 1",
+                            "sub_steps":[
+                                {
+                                    "name":"Prep and Preheat:  ",
+                                    "desc":" Preheat oven to 350°F (175°C). Grease a baking dish."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 2",
+                            "sub_steps":[
+                                {
+                                    "name":"Prepare Nut Filling: ",
+                                    "desc":" Mix chopped nuts and cinnamon in a bowl. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 3",
+                            "sub_steps":[
+                                {
+                                    "name":"Layer Phyllo Sheets: ",
+                                    "desc":" Lay phyllo sheets in the dish, brushing each layer with melted butter."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 4",
+                            "sub_steps":[
+                                {
+                                    "name":" Add Nut Mixture:",
+                                    "desc":"  Spread a layer of nut mixture over phyllo."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 5",
+                            "sub_steps":[
+                                {
+                                    "name":"Layer and Cut: ",
+                                    "desc":"  Continue layering phyllo and nuts. Cut into diamond or square shapes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 6",
+                            "sub_steps":[
+                                {
+                                    "name":" Bake and Syrup:",
+                                    "desc":" Bake until golden brown, about 45-50 minutes. Simmer sugar, water, honey, lemon juice in a pan until syrupy."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 7",
+                            "sub_steps":[
+                                {
+                                    "name":" Pour Syrup: ",
+                                    "desc":"Pour cooled syrup over hot baklava. Let cool and absorb syrup. "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Rasmalai",
+                    "image":"https://www.kitchentricks.com/wp-content/uploads/2021/07/easy-rasmalai-recipe-XS-1200x675.jpg",
+                    "video":"www.youtube.com",
+                    "steps":[
+                        {
+                            "step_name":"Step 1",
+                            "sub_steps":[
+                                {
+                                    "name":"Knead Paneer: ",
+                                    "desc":"Knead 200g paneer till smooth, shape into small dumplings. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 2",
+                            "sub_steps":[
+                                {
+                                    "name":" Boil Dumplings: ",
+                                    "desc":"Boil 4 cups water and 1 cup sugar, cook dumplings 10-12 mins, then drain. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 3",
+                            "sub_steps":[
+                                {
+                                    "name":"Warm Saffron Milk: ",
+                                    "desc":"Warm 4 cups milk, add saffron, let it simmer. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 4",
+                            "sub_steps":[
+                                {
+                                    "name":"Squeeze and Soak: ",
+                                    "desc":"Squeeze water from dumplings, soak them in saffron milk for 30 mins. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 5",
+                            "sub_steps":[
+                                {
+                                    "name":"Add Condensed Milk:",
+                                    "desc":"Mix 1/2 cup condensed milk with rose water, add to saffron milk. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 6",
+                            "sub_steps":[
+                                {
+                                    "name":" Transfer and Garnish: ",
+                                    "desc":" Transfer dumplings to dish, pour saffron milk, garnish with nuts."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name":"Step 7",
+                            "sub_steps":[
+                                {
+                                    "name":" Chill and Enjoy:",
+                                    "desc":"Refrigerate for a few hours, then relish your homemade Rasmalai! "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
-}
+}     
