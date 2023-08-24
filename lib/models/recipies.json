@@ -1564,7 +1564,221 @@
                     ]
                 }
             ]
-        }
-        
+        },
+        {
+            "category": "Dal",
+            "Items": [
+                {
+                    "name": "Dal Tadka",
+                    "image": "https://spicecravings.com/wp-content/uploads/2021/05/Dal-Tadka-Featured.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Cook Dal",
+                                    "desc": "Rinse, drain dal. Pressure cook with turmeric, salt, and 2 cups water. Soften till 4-5 whistles"
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Whisk Dal",
+                                    "desc": "Make dal smooth after cooking. Add water if needed."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Tempering",
+                                    "desc": "Heat ghee/oil, splutter cumin, mustard seeds, asafoetida. Sauté chilies, garlic."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Onions & Tomatoes",
+                                    "desc": "Add onions. Sauté till translucent. Add tomatoes. Cook till soft."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Flavor Dal",
+                                    "desc": "Mix in red chili powder and a pinch of salt."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Combine",
+                                    "desc": "Pour tempering into dal. Mix well."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Simmer briefly. Adjust consistency. Garnish with coriander and lemon juice if desired. Serve with rice or bread."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dal Fry",
+                    "image": "https://kfoods.com/images1/newrecipeicon/dhaba-dal-fry_14932.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Cook Dal",
+                                    "desc": "Boil soaked lentils with water and turmeric. Mash them."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Temper Spices",
+                                    "desc": "Heat ghee/oil. Sizzle cumin seeds, add asafoetida, garlic."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Onions and Tomatoes",
+                                    "desc": "Sauté onions till translucent. Add tomatoes, cook."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Spices",
+                                    "desc": "Mix red chili, cumin powder, and a pinch of salt."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Combine Dal",
+                                    "desc": "Put lentils in, blend with tempered spices."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Simmer and Adjust",
+                                    "desc": "Let dal simmer. Adjust consistency and salt."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish and Serve",
+                                    "desc": "Turn off heat, garnish with coriander. Serve with rice or bread."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dal Makhni",
+                    "image": "https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-Blog.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Cook Lentils and Beans",
+                                    "desc": "Boil soaked lentils and kidney beans in water until soft."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Temper Spices",
+                                    "desc": "Heat butter and oil in a pot. Sauté chopped onion till golden"
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Purees",
+                                    "desc": "Stir in ginger-garlic paste and tomato puree. Cook till oil separates."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Spice It Up",
+                                    "desc": "Add cumin, coriander, red chili, turmeric, and garam masala. Sauté briefly."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Blend and Simmer",
+                                    "desc": "Mix cooked lentils and beans into the pot. Add salt. Simmer"     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Creamy Finish",
+                                    "desc": "Pour in heavy cream. Mix well and cook for a few more minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish and Enjoy",
+                                    "desc": "Turn off heat, garnish with coriander leaves. Serve Dal Makhni with naan or rice."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }   
     ]
 }
