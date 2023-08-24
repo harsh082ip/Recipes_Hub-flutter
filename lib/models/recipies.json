@@ -1352,8 +1352,219 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "name": "Kolkata Biryani",
+                    "image": "https://assets.cntraveller.in/photos/62644db46511cf2003cee423/master/pass/kolkata-biryani-lead.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate Meat",
+                                    "desc": "Mix meat with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, lemon juice, and salt. Marinate for a few hours."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Parboil Rice",
+                                    "desc": "Partially cook basmati rice with whole spices until it's 70% cooked. Drain."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Fry Potatoes",
+                                    "desc": "Fry the potato halves until they're lightly golden."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Dum Cooking",
+                                    "desc": "Seal the pot with dough or a tight-fitting lid. Cook on low heat (dum) for about 30-40 minutes, allowing the flavors to meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Layer Biryani",
+                                    "desc": "In a pot, layer marinated meat, parboiled rice, fried onions, boiled eggs, saffron milk, and fried potatoes."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Dum Cooking",
+                                    "desc": "Seal the pot with dough or a tight-fitting lid. Cook on low heat (dum) for about 30-40 minutes, allowing the flavors to meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Final Touches and Serve",
+                                    "desc": "Gently mix the layers before serving, ensuring the rice and meat are evenly distributed and Serve Kolkata Biryani hot, accompanied by aloo (potato) curry and a dollop of mustard-based sauce."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Malabar Biryani",
+                    "image": "https://topicimages.mrowl.com/large/prithvi_c/indian_delicacies/lunchrecipes/ricerecepies/biryani/regionalbiryan/malbarbiryani_1.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate Meat",
+                                    "desc": "Mix meat with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, lemon juice, and salt. Marinate for a few hours."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Parboil Rice",
+                                    "desc": "Partially cook jeerakasala or basmati rice with whole spices until it's 70% cooked. Drain."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Layer Biryani",
+                                    "desc": "In a pot, layer marinated meat, parboiled rice, fried onions, fried cashews and raisins, mint, cilantro, saffron milk, and a drizzle of ghee."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Dum Cooking",
+                                    "desc": "Seal the pot with dough or a tight-fitting lid. Cook on low heat (dum) for about 30-40 minutes, allowing the flavors to meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Layer Biryani",
+                                    "desc": "In a pot, layer marinated meat, parboiled rice, fried onions, boiled eggs, saffron milk, and fried potatoes."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Final Touches",
+                                    "desc": "Gently mix the layers before serving, ensuring the rice and meat are evenly distributed."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Gently mix the layers before serving, ensuring the rice and meat are evenly distributed."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Afgani Biryani",
+                    "image": "https://static.wixstatic.com/media/91e241_455be7f8fb27492fa5cbdb7e5d9faff7~mv2.jpg/v1/fill/w_560,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Afghani%20Makhmali%20Chicken%20Biryani.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate Lamb",
+                                    "desc": "Mix lamb with yogurt, ginger-garlic paste, turmeric powder, paprika or red chili powder, garam masala, and salt. Marinate for a few hours."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Parboil Rice",
+                                    "desc": "Partially cook basmati rice with whole spices until it's 70% cooked. Drain."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Layer Biryani",
+                                    "desc": "In a pot, layer marinated lamb, parboiled rice, fried carrots, fried raisins and almonds, saffron milk."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Dum Cooking",
+                                    "desc": "Seal the pot with dough or a tight-fitting lid. Cook on low heat (dum) for about 30-40 minutes, allowing the flavors to meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Final Touches",
+                                    "desc": "Gently mix the layers before serving, ensuring the rice and lamb are evenly distributed."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Serve Afghani Biryani hot, accompanied by yogurt-based sauces or chutneys."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Enjoy",
+                                    "desc": "Revel in the authentic flavors of Afghani Biryani, where the tender lamb and aromatic spices create a culinary experience that mirrors the rich heritage of Afghanistan."
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
+        
     ]
 }
