@@ -220,9 +220,1139 @@
                 },
                 {
                     "name" : "Palak Paneer",
-                    "image" : ""
+                    "image" : "https://img.freepik.com/free-photo/delicious-pakistani-dish-high-angle_23-2148825127.jpg?w=1060&t=st=1692823790~exp=1692824390~hmac=fad140a2d87d314b3ca30623c7268fcd54f3acb387b34386657268a3109b607b",
+                    "video" : "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Blanch Spinach",
+                                    "desc": "Boil spinach leaves briefly, then plunge them into ice water to retain color and nutrients."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare Paneer",
+                                    "desc": "Cut paneer (Indian cottage cheese) into cubes and lightly fry until golden brown."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Sauté Aromatics",
+                                    "desc": "In a pan, sauté cumin seeds, chopped onions, and garlic until onions are translucent."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Blend Spinach",
+                                    "desc": "Blend blanched spinach with green chilies and make a smooth puree."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Cook Spinach Base",
+                                    "desc": "Add the spinach puree to the sautéed mixture, season with spices, and cook until the oil separates."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Paneer",
+                                    "desc": "Gently add the fried paneer cubes to the spinach base and simmer for a few minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Finish with Cream",
+                                    "desc": "Drizzle in some cream for richness and stir gently. Your palak paneer is ready to be served with naan or rice!"
+                                }
+                            ]
+                        }
+                    ]
                 }
-
+            ]
+        },
+        {
+            "category": "Chicken",
+            "Items": [
+                {
+                    "name": "Butter Chicken",
+                    "image": "https://thehappyfoodie.co.uk/wp-content/uploads/2023/03/Butter_Chicken.jpg ",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate Chicken",
+                                    "desc": "Mix yogurt, ginger-garlic paste, spices, and marinate chicken for 1 hour."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Sear Chicken",
+                                    "desc": "Cook marinated chicken until browned. Set aside"
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare Sauce",
+                                    "desc": "Sauté spices and onion. Add tomato puree, cook until oil separates. Blend the mixture."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Simmer Sauce",
+                                    "desc": "Return blended sauce to skillet. Add cream, sugar. Simmer for 5-7 minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Chicken",
+                                    "desc": "Place cooked chicken in the sauce, simmer for 5-10 minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish",
+                                    "desc": "Remove from heat, garnish with cilantro."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Enjoy the creamy butter chicken with rice or naan."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "chicken curry",
+                    "image": "https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Chicken-Curry-Thumbnail.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Sauté Aromatics",
+                                    "desc": "Heat oil, sauté onions until golden. Add ginger-garlic paste, sauté briefly."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Spice",
+                                    "desc": "Stir in cumin, coriander, turmeric, red chili powder. Cook for a minute."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Tomato Base",
+                                    "desc": "Add diced tomatoes. Cook until they soften and oil separates."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Tenderize Chicken",
+                                    "desc": "Put in chicken pieces, season with salt. Cook until chicken turns white."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Simmer",
+                                    "desc": "Add water as needed. Cover and simmer until chicken is cooked through."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish",
+                                    "desc": "Sprinkle fresh cilantro on top."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Your Quick and Tasty Chicken Curry is ready to be enjoyed with rice or bread."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fried chicken",
+                    "image": "https://www.realsimple.com/thmb/GjgD1zsFzyPb2CWKQe_TLRASqWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lemonade-fried-chicken-1022FOO-2000-0912e05702e64dac9bfeffbd9199aee5.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate",
+                                    "desc": "Soak chicken in buttermilk for 1+ hours."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Coat",
+                                    "desc": "Mix flour and spices in a dish. Dredge marinated chicken in mixture."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Rest",
+                                    "desc": "Let coated chicken rest for 15-20 minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Heat",
+                                    "desc": "Heat 2 inches of oil to 350°F (175°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Fry",
+                                    "desc": "Fry chicken 10-12 mins, turning, until golden and cooked (165°F/74°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Drain",
+                                    "desc": "Remove fried chicken, drain on paper towels."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Enjoy the crispy goodness of your Classic Fried Chicken!"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Wings",
+                    "image": "https://www.budgetbytes.com/wp-content/uploads/2023/01/Air-Fryer-Chicken-Wings-plate.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prep Wings",
+                                    "desc": "Pat dry chicken wings with paper towels to remove excess moisture."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Season",
+                                    "desc": "In a bowl, combine oil, salt, black pepper, paprika, garlic powder, and onion powder."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Coat Wings",
+                                    "desc": "Toss wings in the seasoning mixture until evenly coated."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Air Dry",
+                                    "desc": "Place coated wings on a wire rack and let them air dry in the refrigerator for about 1 hour. This step enhances crispiness."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Preheat",
+                                    "desc": "Oven: Preheat oven to 400°F (200°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Bake",
+                                    "desc": "Arrange wings on a baking sheet lined with parchment paper. Bake for 40-45 minutes, turning halfway, until golden and crispy."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Serve your Easy Crispy Chicken Wings with dipping sauces and enjoy!     s"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mughlai Chicken",
+                    "image": "https://static.toiimg.com/photo/84814402.cms",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate Chicken",
+                                    "desc": "Combine yogurt, ginger paste, garlic paste, and a pinch of salt. Marinate chicken for at least 30 minutes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Blend Cashews",
+                                    "desc": "In a blender, blend soaked cashew nuts to a smooth paste. Add a splash of water if needed."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Sauté Onion",
+                                    "desc": "In a pan, heat ghee/butter. Sauté sliced onion until golden brown."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Spices",
+                                    "desc": "Add cumin, coriander, turmeric, and garam masala. Sauté briefly until fragrant."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Cook Chicken",
+                                    "desc": "Add marinated chicken, sear until lightly browned on all sides."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Creamy Base",
+                                    "desc": "Pour in the cashew paste and heavy cream. Stir well to combine."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish and Serve",
+                                    "desc": "Serve your Creamy Mughlai Chicken garnished with saffron-soaked milk and chopped fresh coriander. Pair with naan or fragrant rice."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Pizza",
+            "Items": [
+                {
+                    "name": "Margherita",
+                    "image": "https://www.roundaboutpizza.com.au/wp-content/uploads/2019/10/Roundabout-Margherita-Pizza.jpg",
+                    "video" : "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Preheat Oven",
+                                    "desc": "Heat to 500°F (260°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll Dough",
+                                    "desc": "Flatten dough on floured surface."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Sauce",
+                                    "desc": "Spread sauce, leaving border."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Top with Cheese",
+                                    "desc": "Place mozzarella on sauce."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Bake",
+                                    "desc": "Cook 10-12 mins until crust is golden and cheese melts."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Basil",
+                                    "desc": "Place fresh basil on hot pizza."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Enjoy",
+                                    "desc": "Slice and savor the deliciousness of your Margherita Pizza."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Pepperoni Pizza",
+                    "image": "https://img.freepik.com/premium-photo/fresh-tasty-pizza-with-pepperoni-isolated-white_136401-2336.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Preheat Oven",
+                                    "desc": "Preheat your oven to its highest temperature, typically around 500°F (260°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll Dough",
+                                    "desc": "Preheat your oven to its highest temperature, typically around 500°F (260°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Spread Sauce",
+                                    "desc": "Place rolled-out dough on a baking sheet or pizza stone. Spread tomato sauce evenly, leaving a small edge for the crust."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Cheese",
+                                    "desc": "Sprinkle shredded mozzarella over the sauce."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Place Pepperoni",
+                                    "desc": "Arrange pepperoni slices evenly on top of the cheese."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Bake",
+                                    "desc": "Transfer the pizza to the preheated oven and bake for about 10-12 minutes, until the crust is golden and the cheese is melted and bubbly."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Finish and Serve",
+                                    "desc": "Remove the pizza from the oven, drizzle with olive oil, and sprinkle dried oregano on top. If you like some heat, add optional red pepper flakes."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Veg Pizza",
+                    "image": "https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?resize=720%2C480&ssl=1",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Preheat Oven",
+                                    "desc": "Preheat your oven to its highest setting, usually around 500°F (260°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll Dough",
+                                    "desc": "Roll out pizza dough on a floured surface to your desired thickness."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Spread Sauce",
+                                    "desc": "Place rolled-out dough on a baking sheet or pizza stone. Spread tomato sauce evenly, leaving a small border."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Cheese",
+                                    "desc": "Sprinkle shredded mozzarella cheese over the sauce."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Arrange Veggies",
+                                    "desc": "Distribute sliced bell peppers, onions, mushrooms, and black olives over the cheese."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Season",
+                                    "desc": "Drizzle olive oil over the veggies. Sprinkle dried oregano, basil, salt, and pepper for extra flavor. Place the pizza in the preheated oven and bake for about 10-12 minutes, until the crust is golden and the cheese is melted and bubbly."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Slice and Enjoy",
+                                    "desc": "Slice your Simple Veggie Pizza and relish the vibrant medley of vegetables on a bed of cheesy goodness."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Creamy White Pizza",
+                    "image": "https://therecipecritic.com/wp-content/uploads/2023/01/white_pizza-667x1000.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Preheat Oven",
+                                    "desc": "Preheat your oven to its highest temperature, usually around 500°F (260°C) and roll out pizza dough on a floured surface to your preferred thickness."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Mix Cheese",
+                                    "desc": "In a bowl, combine ricotta, shredded mozzarella, grated Parmesan, minced garlic, dried oregano, a pinch of salt, and black pepper."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Spread Cheese Mixture",
+                                    "desc": "Place the rolled-out dough on a baking sheet or pizza stone. Spread the cheese mixture evenly over the dough."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Spinach",
+                                    "desc": "Scatter fresh spinach leaves over the cheese mixture."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Drizzle Oil",
+                                    "desc": "Drizzle a bit of olive oil over the top."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Bake",
+                                    "desc": "Transfer the pizza to the preheated oven and bake for about 10-12 minutes, until the crust is golden and the cheese is melted and slightly golden."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Season and Serve",
+                                    "desc": "Remove from the oven, sprinkle red pepper flakes for a kick, and drizzle a touch of olive oil."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Panner Pizza",
+                    "image": "https://kabilarestro.com/wp-content/uploads/2023/05/chilli-paneer.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Preheat Oven",
+                                    "desc": "Heat to 500°F (260°C)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll Dough",
+                                    "desc": "Flatten dough."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Spread Sauce",
+                                    "desc": "Apply pizza sauce, leaving border. "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Add Cheese",
+                                    "desc": "Sprinkle mozzarella"
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Layer Paneer and Veggies",
+                                    "desc": "Add paneer, bell peppers, onions, tomatoes."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Season and Bake",
+                                    "desc": "Drizzle olive oil, sprinkle garam masala, salt, and pepper. Bake 10-12 mins."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Garnish and Serve",
+                                    "desc": "Top with cilantro. Add chili flakes if desired. Slice and enjoy Paneer Tikka Pizza's fusion of flavors."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Veg Momos",
+                    "image": "https://cdn.foodaciously.com/static/recipes/ee9fd204-25cf-4e97-be5a-d7626470d420/easy-vegan-momos-recipe-7ab341154a5c13d6d9642300e7e2c92d-2560.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare the Filling",
+                                    "desc": "Mix finely chopped vegetables (cabbage, carrots, bell peppers) with garlic, ginger, and seasonings like soy sauce, salt, and pepper in a bowl."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Sauté the Filling",
+                                    "desc": "In a pan, sauté the vegetable mixture until they're cooked but still slightly crunchy. This enhances the flavors of the filling."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Make the Dough",
+                                    "desc": "Prepare a dough by mixing all-purpose flour, water, and a pinch of salt until it's smooth and pliable."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll Out Dough",
+                                    "desc": "Roll the dough into thin, round sheets using a rolling pin. Cut them into circles of your preferred size (about 3-4 inches in diameter)."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Fill and Fold",
+                                    "desc": "Place a spoonful of the sautéed filling in the center of each dough circle. Fold the dough over the filling to create a half-moon shape and seal the edges with pleats."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Steam the Momos",
+                                    "desc": "Arrange the filled momos in a steamer basket and steam them for about 10-15 minutes until the dough becomes translucent and the filling is thoroughly cooked."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "erve the hot and steaming veg momos with a dipping sauce made from soy sauce, vinegar, and a hint of chili for added flavor."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kurkure Momos",
+                    "image": "https://www.urbanly.in/pune/wp-content/uploads/2023/01/Cafe-Star-Boy-Aundh-Pune-Article-2.webp",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare Dough",
+                                    "desc": "Mix flour, salt, water. Rest 30 mins."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Create Filling",
+                                    "desc": "Cook minced chicken or veggies with onion, ginger, garlic, and seasonings. Allow it to cool."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Shape Momos",
+                                    "desc": "Roll dough, place filling, fold, seal."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Create Coating Batter",
+                                    "desc": "Mix cornflour, all-purpose flour, water, salt, and spices to form a thick batter."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Coat Momos and heat the oil",
+                                    "desc": "Dip each momo in the coating batter, ensuring it's evenly covered and heat vegetable oil for deep frying."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Fry Kurkure Momos",
+                                    "desc": "Carefully place coated momos in hot oil and fry until they turn golden and crispy. Drain excess oil on paper towels."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Serve Kurkure Momos hot, accompanied by an array of dipping sauces."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Fried Veg Momos",
+                    "image": "https://geekrobocook.com/wp-content/uploads/2021/04/Fried-veg-momos.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare the Filling",
+                                    "desc": "Mix finely chopped vegetables, cooked meat or tofu, and seasonings to make a flavorful filling."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Make Momo Dough",
+                                    "desc": "Create a dough using flour, water, and a pinch of salt, kneading until it's soft and elastic."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll and Cut Dough",
+                                    "desc": "Roll out the dough, cut into small circles, and keep them ready for stuffing"
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Fill and Seal",
+                                    "desc": "Place a spoonful of filling in each circle, fold, and seal the edges securely to make momo shapes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Heat Oil for Frying",
+                                    "desc": "Heat oil in a pan for deep-frying the momos."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Fry the Momos",
+                                    "desc": "Fry the stuffed momos in hot oil until they turn golden brown and crispy."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Drain and Serve",
+                                    "desc": "Remove the fried momos, let excess oil drain, and serve hot with your favorite dipping sauce."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Momos",
+                    "image": "https://junifoods.com/wp-content/uploads/2023/07/Momo-chicken-khukura-recipe.png",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare Chicken Filling",
+                                    "desc": "Cook and shred chicken, then mix with sautéed onions, garlic, and spices to create a savory filling."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Make Momo Dough",
+                                    "desc": "Create a dough using flour, water, and a pinch of salt, kneading until it's smooth.    "
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Roll and Cut Dough",
+                                    "desc": "Roll out the dough into thin sheets and cut them into circles"
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Fill and Seal",
+                                    "desc": "Place chicken filling in each circle, fold, and seal edges securely to form momo shapes."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Steam the Momos",
+                                    "desc": "Arrange momos in a steamer and steam for around 15-20 minutes until fully cooked."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare Dipping Sauce",
+                                    "desc": "Create a dipping sauce with a mix of soy sauce, vinegar, and chili for added flavor."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Serve the hot chicken momos with the dipping sauce and enjoy your delicious treat."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Biryani",
+            "Items": [
+                {
+                    "name": "Hyderabadi Biryani",
+                    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/hyderabadi-biryani-recipe-chicken.jpg",
+                    "video": "www.youtube.com",
+                    "steps" : [
+                        {
+                            "step_name": "Step 1",
+                            "sub_steps": [
+                                {
+                                    "name": "Marinate Meat",
+                                    "desc": "Mix meat with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, lemon juice, and salt. Marinate for a few hours."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 2",
+                            "sub_steps": [
+                                {
+                                    "name": "Parboil Rice",
+                                    "desc": "Partially cook basmati rice with whole spices until it's 70% cooked. Drain."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 3",
+                            "sub_steps": [
+                                {
+                                    "name": "Layer Biryani",
+                                    "desc": "In a heavy-bottomed pot, layer marinated meat, parboiled rice, fried onions, mint, cilantro, saffron milk, and ghee."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 4",
+                            "sub_steps": [
+                                {
+                                    "name": "Dum Cooking",
+                                    "desc": "Seal the pot with dough or a tight-fitting lid. Cook on low heat (dum) for about 30-40 minutes, allowing the flavors to meld."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 5",
+                            "sub_steps": [
+                                {
+                                    "name": "Final Touches",
+                                    "desc": "Gently mix the layers before serving, ensuring the rice and meat are evenly distributed."     
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 6",
+                            "sub_steps": [
+                                {
+                                    "name": "Prepare Dipping Sauce",
+                                    "desc": "Create a dipping sauce with a mix of soy sauce, vinegar, and chili for added flavor."
+                                }
+                            ]
+                        },
+                        {
+                            "step_name": "Step 7",
+                            "sub_steps": [
+                                {
+                                    "name": "Serve",
+                                    "desc": "Serve the Hyderabadi Biryani hot, accompanied by raita and salan (gravy)."
+                                }
+                            ]
+                        }
+                    ]
+                }
             ]
         }
     ]
